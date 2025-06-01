@@ -107,7 +107,7 @@ Depending on your jurisdiction, you may have the right to:
 * Object to processing for direct marketing
 * Port data to another service provider
 
-To exercise these rights, email us at: **\[[yadavmanishrajdev@gmail.com](mailto:yadavmanishrajdev@gmail.com)]**
+To exercise these rights, email us at: **\[[brilliant.manishraj@gmail.com](mailto:brilliant.manishraj@gmail.com)]**
 
 ---
 
@@ -158,5 +158,5 @@ We may update this Privacy Policy from time to time. Material changes will be no
 
 If you have any questions, concerns, or requests regarding this Privacy Policy:
 
-Email: **\[[yadavmanishrajdev@gmail.com](mailto:yadavmanishrajdev@gmail.com)]**
+Email: **\[[brilliant.manishraj@gmail.com](mailto:brilliant.manishraj@gmail.com)]**
 Phone: **\[Optional]**
